@@ -1,0 +1,37 @@
+AULA 1:
+""" """ ou ''' ''' - Dosctring, o interpretador do Python lê, várias linhas
+
+# - Comentário, e funciona em só uma linha
+
+AULA 2:
+sep=('') - Usado para colocar um separador, exemplo: print(1, 2, sep='-'), output: 1 - 2
+
+Quebra de linha:
+\r\n - CRLF
+\n - LF
+
+end='' - Usado para dizer o que acontece ao final da linha, exemplo: print(12, 34, 1011, sep='-', end='##\n'), output: 
+12-34-1011##
+56-78
+9-10
+
+AULA 3:
+Python diferencia letras maiúsculas e minisculas
+
+\ - Caractere de escape, exemplo: print("Caio \"Henrique\""), output: Caio "Henrique"
+
+r - Mostrar o caractere de escape, exemplo: print(r"Caio \"Henrique\""), output: Caio \"Henrique\"
+
+Aspas duplas dentro de aspas simples - deixa o código mais limpo, exemplo: print('Caio "Henrique"'), exemplo: Caio "Henrique"
+
+AULA 4:
+Tipos primitivos: string, int, float, boolean
+int - numero literal inteiro
+float - numeros em casa decimal
+
+type - função/classe para mostrar o tipo que o Python deu ao valor, exemplo: print(type('Caio Molinaro')), output: <class 'str'>
+
+TUDO EM PYTHON É UM OBJETO
+
+AULA 5:
+Boolean tem dois valores, sim ou não, verdadeiro ou falso
