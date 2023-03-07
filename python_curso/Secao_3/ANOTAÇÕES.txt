@@ -35,3 +35,21 @@ TUDO EM PYTHON É UM OBJETO
 
 AULA 5:
 Boolean tem dois valores, sim ou não, verdadeiro ou falso
+
+AULA 6:
+Polimorfismo utiliza o mesmo operador para fazer coisas diferentes 
+Função de conversão de tipo: exemplo: int(), str(), float(), bool()
+
+AULA 7:
+PEP8 guia de estilos Python 
+Usar snakecase para variaveis
+
+AULA 9:
+// - resultado da divisão em numero inteiro(corta as casas decimais)
+** - elevar numero
+
+AULA 13:
+Formatação de strings
+f-strings
+Colocar 'f' na string ja deixa eu usar variaveis na string
+f'{variavel} string'
