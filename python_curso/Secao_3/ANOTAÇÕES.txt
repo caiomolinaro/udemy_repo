@@ -31,7 +31,7 @@ float - numeros em casa decimal
 
 type - função/classe para mostrar o tipo que o Python deu ao valor, exemplo: print(type('Caio Molinaro')), output: <class 'str'>
 
-TUDO EM PYTHON É UM OBJETO
+            TUDO EM PYTHON É UM OBJETO
 
 AULA 5:
 Boolean tem dois valores, sim ou não, verdadeiro ou falso
