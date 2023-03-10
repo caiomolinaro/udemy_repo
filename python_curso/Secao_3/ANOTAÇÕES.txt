@@ -53,3 +53,11 @@ Formatação de strings
 f-strings
 Colocar 'f' na string ja deixa eu usar variaveis na string
 f'{variavel} string'
+
+AULA 23:
+Operador 'not' é usado pra inverter operações (true vira false, false vira true)
+exemplo: "if not variavel"
+
+AULA 24:
+Operador 'in' = está entre
+Operador 'not in' = não está entre
