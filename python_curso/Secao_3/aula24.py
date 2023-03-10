@@ -1,4 +1,4 @@
-nome = 'Caio'
+# nome = 'Caio'
 # print(nome[1])
 # print(nome[-2])
 
